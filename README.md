@@ -4,7 +4,7 @@ Gestor de tareas con HTML, CSS y JavaScript
 
 ## Descripción
 
-Este proyecto esta realizado con la finalidad de servir de guìa para la creaciòn del proyecto `PROYECTO 2: Aplicación CRUD` del curso [Desarrollo Web Full Stack](https://github.com/UDDBootcamp/BOOT-M1-SEM8-PROY2) de `UDDBootcamp`. Fue construido teniendo en cuenta todo lo aprendido durante el modulo 1 del Bootcamp relacionado a HTML, CSS y JavaScript.
+Este proyecto esta realizado con la finalidad de servir de guìa para la creaciòn del proyecto [PROYECTO 2: Aplicación CRUD](https://github.com/UDDBootcamp/BOOT-M1-SEM8-PROY2) del Bootcamp Desarrollo Web Full Stack de `UDDBootcamp`. Fue construido teniendo en cuenta todo lo aprendido durante el modulo 1 del Bootcamp relacionado a HTML, CSS y JavaScript.
 
 Este proyecto es un gestor de tareas simple que permite a los usuarios crear, organizar y realizar un seguimiento de sus tareas diarias. Está desarrollado utilizando HTML, CSS y JavaScript con el uso del DOM y Local Storage para almacenar los datos de las tareas.
 
@@ -81,9 +81,9 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE.md](LICEN
 
 ## Expresiones de gratitud 🎁
 
-Este archivo readme se ha desarrollado utilizando como referencia los siguientes proyectos:
+Este proyecto se realizo usando como base el proyecto:
 
-* [template-readme-es](https://github.com/brayandiazc/template-readme-es) - creado por [Brayan Diaz C](https://github.com/brayandiazc)
+* [PROYECTO 2: Aplicación CRUD](https://github.com/UDDBootcamp/BOOT-M1-SEM8-PROY2) - creado por [UDD Bootcamp](https://github.com/UDDBootcamp)
 
 ---
-⌨ ️con ❤️ por [Tu nombre](https://github.com/brayandiazc) 😊
+⌨ ️con ❤️ por [Brayan Diaz C](https://github.com/brayandiazc) 😊
